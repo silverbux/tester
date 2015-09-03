@@ -5,7 +5,7 @@
 
 Install this globally and you'll have access to the ngcode command anywhere on your system.
 
-```shell
+```sh
 npm install -g ngcode
 ```
 
