@@ -12,7 +12,7 @@ npm install -g ngcode
 
 ### Angular Code Generator Usage
 
-**Directive**
+#### Directive
 ```
 ngcode directive:helloworld
 ```
